@@ -1,8 +1,4 @@
-Nama : Arjun Syah
-NIM : 312110102
-Kelas : TI.21.A3
-Dosen : Muhammad Najamuddin Dwi Miharja, S.Kom, M.Kom.
-UAS PEMROGRAMAN MOBILLE
+
 
 1. Pertama, kita mengimpor paket-paket yang diperlukan:
  - `package:flutter/material.dart` adalah paket yang menyediakan komponen dan widget yang 
